@@ -1,4 +1,4 @@
-# TODO App
+# TODO App   
 
 A simple and efficient TODO application built with modern web technologies. This app allows users to organize their tasks effectively, offering features like task creation, modification, and deletion, with a sleek and responsive user interface.
 
